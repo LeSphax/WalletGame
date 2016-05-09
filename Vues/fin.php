@@ -45,7 +45,7 @@
 		<form method="post" action="jeu.php">
 	        <input type="submit" value="Rejouer">
 	    </form>
-	    <form method="post" action="../connexion.html">
+	    <form method="post" action="../index.html">
 	        <input type="submit" value="Deconnexion">
 	    </form>
 	    <form method="post" action="../Traitements/effacerScores.php">
